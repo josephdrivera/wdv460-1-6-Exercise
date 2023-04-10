@@ -1,0 +1,27 @@
+{
+  "name": "wdv460-1-6-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+ "scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephdrivera/wdv460-1-6-Exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephdrivera/wdv460-1-6-Exercise/issues"
+  },
+  "homepage": "https://github.com/josephdrivera/wdv460-1-6-Exercise#readme",
+  "dependencies": {
+    "next": "^13.3.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
